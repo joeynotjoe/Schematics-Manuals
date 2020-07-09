@@ -8,3 +8,4 @@ PDF Schematics are often hard to track down, and when you find them, they can be
 ---
 ## Combo Organs
 [GEM Sprinter 61](https://github.com/joeynotjoe/Gem-Sprinter-61/blob/master/GEM%20Sprinter%2061%20Schematics%202nd%20Edition%20-%201981.pdf)
+[Whitehall Grand Prix 5001]()
