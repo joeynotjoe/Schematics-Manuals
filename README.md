@@ -5,7 +5,6 @@ PDF Schematics are often hard to track down, and when you find them, they can be
 
 ### If you are in possession of other related schematics, let's expand this repository.
 
-# Schematics
-
+---
 ## Combo Organs
 [GEM Sprinter 61](https://github.com/joeynotjoe/Gem-Sprinter-61/blob/master/GEM%20Sprinter%2061%20Schematics%202nd%20Edition%20-%201981.pdf)
