@@ -10,3 +10,6 @@ PDF Schematics are often hard to track down, and when you find them, they can be
 [GEM Sprinter 61](https://github.com/joeynotjoe/schematics/blob/master/Combo%20Organs/GEM/GEM%20Sprinter%2061%20Schematics%202nd%20Edition%20-%201981.pdf)
 
 [Whitehall Grand Prix 5001](https://github.com/joeynotjoe/schematics/blob/master/Combo%20Organs/Whitehall/Whitehall%20Grand%20Prix%20Model%205001%20Combo%20Organ%20Schematic.jpg)
+
+## Synthesizers
+[Crumar DS2](https://github.com/joeynotjoe/schematics/blob/master/Synthesizers/Crumar/Crumar%20DS2%20Schematic.pdf)
