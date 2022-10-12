@@ -1,3 +1,4 @@
+![Schematics & Manuals](https://repository-images.githubusercontent.com/277282633/72f06000-c413-11ea-8857-cf73d1468df0)
 # Schematics & Manuals
 > A repository to collect information and schematics for the music equipment and electronics.
 
